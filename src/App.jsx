@@ -21,6 +21,7 @@ function App() {
       </div>
 
       <Navbar />
+
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
           <Route path="/" element={<HomePage />} />
@@ -31,6 +32,7 @@ function App() {
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </AnimatePresence>
+
       <Footer />
       <WhatsAppFloat />
     </div>
