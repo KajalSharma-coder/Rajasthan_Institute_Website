@@ -2,7 +2,7 @@
 
 A modern, responsive, and user-friendly educational institute website designed to provide students with complete information about courses, admissions, faculty, and campus facilities in an attractive digital experience.
 
-✨ Features
+✨ Features:
 ✅ Fully Responsive Design
 ✅ Modern & Clean User Interface
 ✅ Smooth Navigation & Animations
@@ -12,7 +12,7 @@ A modern, responsive, and user-friendly educational institute website designed t
 ✅ Mobile-Friendly Layout
 ✅ Fast Performance & Optimized Design
 
-🚀 Tech Stack
+🚀 Tech Stack:
 🌐 HTML5
 🎨 CSS3
 ⚡ JavaScript
@@ -20,11 +20,11 @@ A modern, responsive, and user-friendly educational institute website designed t
 💨 Tailwind CSS
 
 
-📚 Project Purpose
+📚 Project Purpose:
 The purpose of this project is to create a professional and visually appealing online presence for Rajasthan Institute where students can easily access academic and admission-related information.
 
 
-🖼️ Website Preview
+🖼️ Website Preview:
 <img width="1722" height="900" alt="image" src="https://github.com/user-attachments/assets/977021b5-ddf6-45de-a0e8-3ada95b7c915" />
 <img width="1806" height="897" alt="image" src="https://github.com/user-attachments/assets/8887b156-bb43-4692-8e5b-8f49c017e09c" />
 <img width="1616" height="900" alt="image" src="https://github.com/user-attachments/assets/b0a1236d-d4f5-484c-884d-9e1922859e80" />
@@ -45,7 +45,7 @@ npm install
 npm run dev
 
 
-📱 Responsive Design
+📱 Responsive Design:
 The website is optimized for:
 💻 Desktop
 📱 Mobile Devices
@@ -70,7 +70,7 @@ The website is optimized for:
 ├── package.json
 └── README.md
 
-🌐 Live Demo
+🌐 Live Demo:
 🚀 Experience the website live here:
 
 🔗 Live Website: https://rajasthan-institute-website-b7ra.vercel.app
